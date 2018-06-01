@@ -1,0 +1,18 @@
+// Fonts
+@import "http://webfonts.ru/import/ahellya.css";
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,600,700,900&subset=latin,cyrillic);
+
+$font-primary: 'Ahellya', serif;
+$font-secondary: 'Exo 2', sans-serif;
+
+// Палитра
+$palette1: #dfe7e4;
+$palette2: #a7b3a8;
+$palette3: #885861;
+$palette4: #534744;
+
+// Основное оформление
+$color-primary: $palette3;		// Основной текст
+$color-secondary: $palette4;	// Вспомогательный текст (например, заголовки)
+$color-bg: $palette1;			// Цвет фона
+$color-link: $palette2;			// Цвет ссылок
